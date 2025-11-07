@@ -5,15 +5,16 @@ The structure is designed to support reproducibility, collaboration, and future 
 ## How to Contribute
 To contribute a new project or update an existing one:
 1.	Click on ‘Fork’
-2.	Click on the link that appears as ‘[user name]/MAED-Projects’
-3.	Click on ‘Add File’
-4.	Click on ‘Create New File’
-5.	Name new folder ‘[name]/’
-6.	Create a README inside the folder, describing the included MAED zip files and the associated publication.
-7.	Click ‘Commit Changes’
-8.	Add commit message and description
-9.	Click ‘Commit Changes’
-10.	Create a metadata.json with key details such as:
+2.	Select owner and name your forked repository
+3.	
+4.	Click on ‘Add File’
+5.	Click on ‘Create New File’
+6.	Name new folder ‘[name]/’
+7.	Create a README inside the folder, describing the included MAED zip files and the associated publication.
+8.	Click ‘Commit Changes’
+9.	Add commit message and description
+10.	Click ‘Commit Changes’
+11.	Create a metadata.json with key details such as:
 - Country and sector
 - File version (file_version)
 - MAED version (maed_version)
