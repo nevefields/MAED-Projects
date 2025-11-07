@@ -4,19 +4,30 @@ The structure is designed to support reproducibility, collaboration, and future 
 
 ## How to Contribute
 To contribute a new project or update an existing one:
-1. Create a folder under `/MAED-Projects/` with the country name (e.g., `Viet Nam/`).
-2. Add a `README.md` inside the folder, describing the included MAED files and the associated publication.
-3. Include a `metadata.json` with key details such as:
-   - Country and sector
-   - File version (`file_version`)
-   - MAED version (`maed_version`)
-   - Time period 
-   - Authors/contributors  
-   - Link to peer-reviewed or government publication
-   - License
-4. Upload MAED files in an organized folder structure.
-5. Include project name and brief description under the Projects list below.
-6. Submit a pull request.
+1.	Click on ‘Fork’
+2.	Click on the link that appears as ‘[user name]/MAED-Projects’
+3.	Click on ‘Add File’
+4.	Click on ‘Create New File’
+5.	Name new folder ‘[name]/’
+6.	Create a README inside the folder, describing the included MAED zip files and the associated publication.
+7.	Click ‘Commit Changes’
+8.	Add commit message and description
+9.	Click ‘Commit Changes’
+10.	Create a metadata.json with key details such as:
+- Country and sector
+- File version (file_version)
+- MAED version (maed_version)
+- Time period
+- Authors/contributors
+- Link to peer-reviewed or government publication
+- License
+11.	Upload zip and any other relevant files (Add File > Upload files)
+12.	Click ‘Contribute’
+13.	Click ‘Open Pull Request’
+14.	Add a title and description
+15.	Click ‘Create Pull Request’
+16.	Editor will review and approve pull request, once this has happened your content will be available on the main repository. If you want to make any edits to your files, please follow the same steps as before.
+
 
 ## Projects
 The following projects have been puiblished so far:
