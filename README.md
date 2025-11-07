@@ -6,7 +6,7 @@ The structure is designed to support reproducibility, collaboration, and future 
 To contribute a new project or update an existing one:
 1.	Click on ‘Fork’
 2.	Select owner and name your forked repository
-3.	
+3.	Click on 'Creat fork'
 4.	Click on ‘Add File’
 5.	Click on ‘Create New File’
 6.	Name new folder ‘[name]/’
