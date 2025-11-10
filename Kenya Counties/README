@@ -1,0 +1,64 @@
+Kenya Counties MAED Project
+Whole Energy System sector demand (2015-2070) baseline projections for all 47 counties in Kenya.
+
+This folder contains MAED model files for various counties, including the input data and results for Kenya’s baseline energy demand projections.
+
+Contents
+Whole Energy System
+
+Baringo_MAED: business-as-usual for Baringo County
+Bomet_MAED: business-as-usual for Bomet County
+Bungoma_MAED: business-as-usual for Bungoma County
+Busia_MAED: business-as-usual for Busia County
+Elgeyo-Marakwet_MAED: business-as-usual for Elgeyo Marakwet County
+Embu_MAED: business-as-usual for Embu County
+HomaBay_MAED: business-as-usual for Homa Bay County
+Isiolo_MAED: business-as-usual for Isiolo County
+Kajiado_MAED: business-as-usual for Kajiado County
+Kakamega_MAED: business-as-usual for Kakamega County
+Kericho_MAED: business-as-usual for Kericho County
+Kiambu_MAED: business-as-usual for Kiambu County
+Kilifi_MAED: business-as-usual for Kilifi County
+Kirinyaga_MAED: business-as-usual for Kirinyaga County
+Kisii_MAED: business-as-usual for Kisii County
+Kisumu_MAED: business-as-usual for Kisumu County
+Kitui_MAED: business-as-usual for Kitui County
+Kwale_MAED: business-as-usual for Kwale County
+Laikipia_MAED: business-as-usual for Laikipia County
+Lamu_MAED: business-as-usual for Lamu County
+Machakos_MAED: business-as-usual for Machakos County
+Makueni_MAED: business-as-usual for Makueni County
+Mandera_MAED: business-as-usual for Mandera County
+Marsabit_MAED: business-as-usual for Marsabit County
+Meru_MAED: business-as-usual for Meru County
+Migori_MAED: business-as-usual for Migori County
+Mombasa_MAED: business-as-usual for Mombasa County
+Muranga_MAED: business-as-usual for Muranga County
+NairobiCity_MAED: business-as-usual for Nairobi City County
+Nakuru_MAED: business-as-usual for Nakuru County
+Nandi_MAED: business-as-usual for Nandi County
+Narok_MAED: business-as-usual for Narok County
+Nyamira_MAED: business-as-usual for Nyamira County
+Nyandarua_MAED: business-as-usual for Nyandarua County
+Nyeri_MAED: business-as-usual for Nyeri County
+Samburu_MAED: business-as-usual for Samburu County
+Siaya_MAED: business-as-usual for Siaya County
+Taita-Taveta_MAED: business-as-usual for Taita Taveta County
+TanaRiver_MAED: business-as-usual for Tana River County
+Tharaka-Nithi_MAED: business-as-usual for Tharaka Nithi County
+TransNzoia_MAED: business-as-usual for Trans Nzoia County
+Turkana_MAED: business-as-usual for Turkana County
+UasinGishu_MAED: business-as-usual for Uasin Gishu County
+Vihiga_MAED: business-as-usual for Vihiga County
+Wajir_MAED: business-as-usual for Wajir County
+WestPokot_MAED: business-as-usual for West Pokot County
+
+More details on each model can be found via the citation.
+
+Citation
+If you use these models, please cite:
+Fields, N., Millot, A., Mutembei, M., Nganga, A., Lubello, P., Hoffbauer, L., Howells, M., Brown, E. (2025) Demand starter data kit: Selected socio-economic and technical energy system demand modelling data for all 47 counties in Kenya. Data-in-brief, 60, 111556. https://doi.org/10.1016/j.dib.2025.111556
+
+
+License
+Shared under CC BY 4.0.
