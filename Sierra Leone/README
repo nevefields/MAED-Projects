@@ -1,0 +1,19 @@
+Sierra Leone MAED Project
+Power sector demand (2015-2070) projections for three outlined scenarios (high, baseline, and low)
+
+This folder contains MAED model files for various scenarios, including the input data and results for Sierra Leone’s power demand analysis
+
+Contents
+Sector Focus: Power Sector
+
+SierraLeone_Baseline
+SierraLeone_High
+SierraLeone_Low
+
+More details on each model can be found via the citation.
+
+Citation
+If you use these models, please cite: Fields, N.; Collier, W.; Kiley, F.; Caulker, D.; Blyth, W.; Howells, M.; Brown, E. Long-Term Forecasting: A MAED Application for Sierra Leone’s Electricity Demand (2023–2050). Energies 2024, 17, 2878. https://doi.org/10.3390/en17122878
+
+License
+Shared under CC BY 4.0.
