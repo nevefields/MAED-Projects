@@ -1,0 +1,20 @@
+Kilifi County MAED Project
+Whole Energy System County demand (2015-2070) projections for three outlined scenarios (high, baseline, and low)
+
+This folder contains MAED model files for various scenarios, including the input data and results for Kilifi County’s Whole Energy System demand analysis
+
+Contents
+Sector Focus: Whole Energy System
+
+Kilifi_Baseline
+Kilifi_High
+Kilifi_Low
+More details on each model can be found via the citation.
+
+Citation
+If you use these models, please cite: Fields, N.; Akute, M.; Hofbauer, L.; Mutembei, M.; Nganga, A.; Howells, M.; Brown, E. CORE-D: county resolution energy demand projections for multi-scale modelling and multi-level governance dialogues in Kenya. Renewable and Sustainable Energy Transition 2025, 8, 100131. https://doi.org/10.1016/j.rset.2025.100131
+
+This work builds on the Demand Starter Data Kits outlined in: Fields, N., Millot, A., Mutembei, M., Nganga, A., Lubello, P., Hoffbauer, L., Howells, M., Brown, E. (2025) Demand starter data kit: Selected socio-economic and technical energy system demand modelling data for all 47 counties in Kenya. Data-in-brief, 60, 111556. https://doi.org/10.1016/j.dib.2025.111556
+
+License
+Shared under CC BY 4.0.
